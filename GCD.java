@@ -4,8 +4,8 @@ public class GCD {
 
 	public static int gcd(int a, int b) {
 		// This is the Euclidean Algorithm.
-		// If "a" == 0, GCD is "|a|"
-		// If "b" == 0, GCD is "|b|"
+		// If "a" == 0, GCD is "|b|"
+		// If "b" == 0, GCD is "|a|"
 		
 		
 		if (a == 0 || b == 0)
